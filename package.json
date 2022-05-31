@@ -8,5 +8,16 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sensus0/dverse-pwa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sensus0/dverse-pwa/issues"
+  },
+  "homepage": "https://github.com/Sensus0/dverse-pwa#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
